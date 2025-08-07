@@ -15,7 +15,7 @@ This project was created to bypass the usage limits of the ChatGPT (o3) app by l
 ## 🛠️ How It Works
 
 1. You send an email with a prompt (e.g., "GPT-Query: Explain bond convexity").
-2. Your local machine checks for new requests every 5 minutes.
+2. Your local machine checks for new requests every 15 seconds.
 3. The script parses the prompt and calls the OpenAI API.
 4. The response is emailed back to you.
 
